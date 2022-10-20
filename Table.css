@@ -1,0 +1,7 @@
+.heading{
+    background-color:#c4dcf3;
+}
+
+tr:nth-child(odd){
+    background-color:grey;
+}
